@@ -15,7 +15,7 @@ static void kernel_map_pages(pagetable_t, uint64, uint64, uint64, int);
 static int  kernel_map_range(pagetable_t, uint64, uint64, uint64, int);
 static void free_range(void *, void *);
 
-
+ 
 
 ///////////////////////////////////////////////////////////////////////////////
 // Global Definitions
